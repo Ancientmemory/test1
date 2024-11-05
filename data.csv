@@ -1,0 +1,3 @@
+VIN,ESN,ICCID,Device Type,Is FiemWare upgrade Inprogress,Firmware Upgrade Timestamp,IsRehomed,Rehomed Region,Auth Status,Active From,Active To,Is Deep Sleep,IMSI,Country Code,Created Date,Last Modified Date,Vehicle Location,Vehicle Data,Vehicle Connectivity,Driving Characteristics,Contacts
+5LMYJ8XY7LGL11634,O8AR000S,89860618041111217844,TCU,false,2023-04-24T06:20:03.203,VSDN,null,FACTORY_MODE,2024-09-19T01:31:25,9999-12-31T23:59:59.997,false,460063554000782,CH,2024-09-19T01:31:25.717,2024-09-30T03:27:53.110,1,1,1,-1,-1
+5LMJJ2SG7SEX00023,1EC006GG,1EC006GG,ECG,null,null,VSDN,null,WAITING_FOR_AUTH,2023-06-27T06:22:43,9999-12-31T23:59:59.997,false,,null,2023-06-27T06:22:43.660,2024-09-10T08:10:41.197,0,1,1,0,0
